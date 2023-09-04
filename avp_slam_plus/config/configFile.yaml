@@ -21,7 +21,7 @@ pointCloudLeafSize: 0.1
 farPointThresh: 20
 closePointThresh: 0.1
 
-mapSave: true
+mapSave: false
 mapSaveLocation: "/home/lgt/catkin_ws/src/AVP-SLAM-PLUS/avp_slam_plus/data/laserCloudMap.pcd"
 odomKeyFramDisThresh: 1.0
 InvalidColorThresh: 60
